@@ -44,7 +44,7 @@ Brief findings of this project are:
 
 
 Tableau Dashboard:
-![Dashboard](/img/dashboard.png?raw=true)
+![Dashboard](/Images/dashboard.png?raw=true) Images/dashboard.png
 
 
 ## Acknowledgments
